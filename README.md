@@ -8,7 +8,7 @@ Not always, huh?"**
 <br/>
 <br/>
 > Details :
-> -  I’m interested in : breathing
+> -  I’m interested in : IOT
 > -  I’m currently learning : Python
 > -  How to reach me : varadmukade97@gmail.com
 > -  Fun fact: I hate artificial sweeteners , used to make hum_dishes
