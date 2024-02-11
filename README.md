@@ -9,7 +9,7 @@ Not always, huh?"**
 <br/>
 > Details :
 > -  I’m interested in : IOT 
-> -  I’m currently learning : Python
+> -  I’m currently learning : MicroPython
 > -  How to reach me : varadmukade97@gmail.com
 > -  Fun fact: *I hate humans* ;
 > -  
